@@ -115,7 +115,7 @@ sections:
     background: gray
     form_id: contact_email
     form_action: email
-    hide_labels: false
+    hide_labels: true
     form_fields:
       - input_type: email
         name: email
