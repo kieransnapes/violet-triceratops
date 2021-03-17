@@ -21,7 +21,7 @@ sections:
       We offer a range of services from simple workflow automation to custom
       software solutions
     features:
-      - title: The Best Feature of Your Services
+      - title: No more paperwork
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
