@@ -123,6 +123,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: your
     submit_label: lorem-ipsum
     type: section_contact
 seo:
