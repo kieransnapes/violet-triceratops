@@ -141,7 +141,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-        name: Message
+        name: message
     submit_label: lorem-ipsum
     type: section_contact
 seo:
