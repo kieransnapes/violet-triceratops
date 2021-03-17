@@ -99,7 +99,7 @@ sections:
         url: /signup
         style: primary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Contact us
     subtitle: lorem-ipsum
     content: >
       ## Get a free consultation 
