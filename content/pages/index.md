@@ -93,7 +93,7 @@ sections:
     title: Get in touch today!
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: /contact
         style: link
         has_icon: false
         icon: arrow-left
