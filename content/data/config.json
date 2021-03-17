@@ -31,5 +31,13 @@
             }
         ]
     },
-    "domain": "https://violet-triceratops-27747.netlify.app"
+    "domain": "https://violet-triceratops-27747.netlify.app",
+    "footer": {
+        "sections": [],
+        "has_nav": true,
+        "nav_links": [],
+        "content": "lorem-ipsum",
+        "links": [],
+        "type": "footer"
+    }
 }
