@@ -136,7 +136,6 @@ sections:
         type: form_field
         default_value: address@email.com
       - input_type: text
-        name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
