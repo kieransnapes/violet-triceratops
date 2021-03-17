@@ -98,7 +98,7 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: lorem-ipsum
+  - section_id: contact
     title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
