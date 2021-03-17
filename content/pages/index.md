@@ -123,7 +123,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-        default_value: your
+        default_value: address@email.com
     submit_label: lorem-ipsum
     type: section_contact
 seo:
