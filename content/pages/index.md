@@ -99,7 +99,7 @@ sections:
         url: /signup
         style: primary
   - section_id: contact
-    title: lorem-ipsum
+    title: Get in touch
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
