@@ -18,8 +18,8 @@ sections:
     background: gray
     title: What we offer
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We offer a range of services from simple workflow automation to custom
+      software solutions
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
