@@ -97,7 +97,7 @@ sections:
     actions:
       - label: Get Started
         url: /signup
-        style: primary
+        style: secondary
       - label: lorem-ipsum
         url: '#'
         style: link
