@@ -132,7 +132,7 @@ sections:
             '8': s
             '9': u
             '10': m
-        is_required: false
+        is_required: true
         type: form_field
         default_value: address@email.com
       - input_type: text
