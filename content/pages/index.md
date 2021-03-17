@@ -114,7 +114,7 @@ sections:
       - dolor sit amet
     background: gray
     form_id: contact_email
-    form_action: lorem-ipsum
+    form_action: c
     hide_labels: false
     form_fields:
       - input_type: email
