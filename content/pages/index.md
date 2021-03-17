@@ -101,7 +101,7 @@ sections:
       agreed on a solution.
     background: gray
     form_id: lorem-ipsum
-    form_action: lorem-ipsum
+    form_action: email
     hide_labels: false
     form_fields: []
     submit_label: lorem-ipsum
