@@ -98,47 +98,6 @@ sections:
       - label: Get Started
         url: /signup
         style: primary
-  - section_id: contact
-    title: Get in touch
-    content: >
-      ## Free consultation
-
-
-      Send us a message with the problems you're having and we'll get back to
-      you with some ideas of how we can automate your business. You won't be
-      charged anything until we agree on a solution together.
-    background: gray
-    form_id: contact_email
-    form_action: email
-    hide_labels: true
-    form_fields:
-      - input_type: email
-        name: email
-        label: email
-        options:
-          - '0': l
-            '1': o
-            '2': r
-            '3': e
-            '4': m
-            '5': '-'
-            '6': i
-            '7': p
-            '8': s
-            '9': u
-            '10': m
-        is_required: true
-        type: form_field
-        default_value: address@email.com
-      - input_type: text
-        label: lorem-ipsum
-        options: []
-        is_required: true
-        type: form_field
-        name: message
-        default_value: How can we help you?
-    submit_label: Send
-    type: section_contact
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
