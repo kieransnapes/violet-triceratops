@@ -113,7 +113,7 @@ sections:
 
       - dolor sit amet
     background: gray
-    form_id: email
+    form_id: contact_email
     form_action: lorem-ipsum
     hide_labels: false
     form_fields:
