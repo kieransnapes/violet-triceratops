@@ -138,7 +138,7 @@ sections:
       - input_type: text
         label: lorem-ipsum
         options: []
-        is_required: false
+        is_required: true
         type: form_field
         name: message
         default_value: How can we help you?
