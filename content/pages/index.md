@@ -25,10 +25,10 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          We optimize your businesses workflows so only what your attention is
-          only spent looking at what is important to your business. This could
-          be include emails, employee timesheets, invoicing and accounting
-          integration like Xero.
+          We optimize your businesses workflows so your attention is only spent
+          looking at what is important to your business. This could be include
+          emails, employee timesheets, invoicing and accounting integration like
+          Xero.
         actions:
           - label: Learn More
             url: /features
