@@ -100,7 +100,6 @@ sections:
         style: primary
   - section_id: contact
     title: Get in touch
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
