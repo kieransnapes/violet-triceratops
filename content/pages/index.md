@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: We save your time
     content: >
-      technikiwi works with you to figure out how you can save time and money on
-      tasks you should not have to think about
+      technikiwi are automation experts, we work with you to save you time and
+      money on tasks you should not have to think about
     actions:
       - label: Learn More
         url: /features
