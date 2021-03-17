@@ -89,35 +89,6 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - section_id: lorem-ipsum
-    content: >
-      ## Get a free consultation 
-
-
-      Send us a message with the problems you're having and we'll get back to
-      you with some ways we can help. You won't be charged anything until we've
-      agreed on a solution.
-    background: gray
-    form_id: lorem-ipsum
-    form_action: email
-    hide_labels: true
-    form_fields:
-      - input_type: email
-        name: lorem-ipsum
-        label: Email
-        default_value: youremail@address
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: text
-        name: message
-        label: message
-        default_value: Tell us about your problems
-        options: []
-        is_required: false
-        type: form_field
-    submit_label: send
-    type: section_contact
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
