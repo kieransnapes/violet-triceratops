@@ -113,7 +113,7 @@ sections:
         type: form_field
       - input_type: text
         name: message
-        label: lorem-ipsum
+        label: message
         default_value: Tell us about your problems
         options: []
         is_required: false
