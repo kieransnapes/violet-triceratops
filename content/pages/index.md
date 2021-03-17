@@ -104,7 +104,7 @@ sections:
     form_action: email
     hide_labels: false
     form_fields:
-      - input_type: text
+      - input_type: email
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
