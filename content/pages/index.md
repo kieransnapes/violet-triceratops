@@ -91,7 +91,6 @@ sections:
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: lorem-ipsum
-    title: Contact us
     content: >
       ## Get a free consultation 
 
