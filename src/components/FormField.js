@@ -33,7 +33,7 @@ export default class FormField extends React.Component {
                   </select>
                 </div>
                 ) : ((_.get(field, 'input_type', null) === 'textarea') ? (
-                <textarea id={_.get(field, 'name', null)} name={_.get(field, 'name', null)} rows="5"{...(_.get(field, 'label', null) ? ({"aria-labelledby": _.get(field, 'name', null) + '-label'}) : null)}{...(_.get(field, 'default_value', null) ? ({placeholder: _.get(field, 'default_value', null)}) : null)}{...(_.get(field, 'is_required', null) ? ({required: true}) : null)}/>
+                <textarea id={_.get(field, 'name', null)} name={_.get(field, 'name', null)} rows="10"{...(_.get(field, 'label', null) ? ({"aria-labelledby": _.get(field, 'name', null) + '-label'}) : null)}{...(_.get(field, 'default_value', null) ? ({placeholder: _.get(field, 'default_value', null)}) : null)}{...(_.get(field, 'is_required', null) ? ({required: true}) : null)}/>
                 ) : 
                 <input id={_.get(field, 'name', null)} type={_.get(field, 'input_type', null)} name={_.get(field, 'name', null)} {...(_.get(field, 'label', null) ? ({"aria-labelledby": _.get(field, 'name', null) + '-label'}) : null)}{...(_.get(field, 'default_value', null) ? ({placeholder: _.get(field, 'default_value', null)}) : null)}{...(_.get(field, 'is_required', null) ? ({required: true}) : null)} />
                 ))}
