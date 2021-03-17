@@ -24,10 +24,11 @@ sections:
       - title: No more paperwork
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          We optimize your businesses workflows so only what your attention is
+          only spent looking at what is important to your business. This could
+          be include emails, employee timesheets, invoicing and accounting
+          integration like Xero.
         actions:
           - label: Learn More
             url: /features
