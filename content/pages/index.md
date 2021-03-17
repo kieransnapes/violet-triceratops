@@ -119,7 +119,7 @@ sections:
         type: form_field
     submit_label: send
     type: section_contact
-    title: <br/<
+    title: <br/>
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
