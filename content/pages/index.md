@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: We save your time
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      technikiwi automate things. We work with you to figure out how you can
+      save time and money on tasks you should not have to think about.
     actions:
       - label: Learn More
         url: /features
