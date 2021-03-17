@@ -92,7 +92,7 @@ sections:
   - section_id: lorem-ipsum
     title: Get in touch today!
     actions:
-      - label: lorem-ipsum
+      - label: Contact us
         url: /contact
         style: primary
         has_icon: false
