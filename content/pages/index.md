@@ -101,17 +101,13 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Get a free consultation 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Send us a message with the problems you're having and we'll get back to
+      you with some ways we can help. You won't be charged anything until we've
+      agreed on a solution.
     background: gray
     form_id: lorem-ipsum
     form_action: lorem-ipsum
