@@ -114,7 +114,7 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
-        default_value: Tell us about your problem
+        default_value: Tell us about your problems
         options: []
         is_required: false
         type: form_field
