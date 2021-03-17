@@ -100,17 +100,13 @@ sections:
         style: primary
   - section_id: contact
     title: Get in touch
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Free consultation
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Send us a message with the problems you're having and we'll get back to
+      you with some ideas of how we can automate your business. You won't be
+      charged anything until we agree on a solution together.
     background: gray
     form_id: contact_email
     form_action: email
