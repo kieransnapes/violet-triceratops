@@ -135,6 +135,13 @@ sections:
         is_required: false
         type: form_field
         default_value: address@email.com
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: lorem-ipsum
     type: section_contact
 seo:
