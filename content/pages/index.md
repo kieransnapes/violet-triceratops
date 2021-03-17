@@ -142,7 +142,7 @@ sections:
         type: form_field
         name: message
         default_value: How can we help you?
-    submit_label: lorem-ipsum
+    submit_label: Send
     type: section_contact
 seo:
   title: Stackbit Azimuth Theme
