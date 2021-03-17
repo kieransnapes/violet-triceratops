@@ -24,11 +24,6 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
-            },
-            {
                 "label": "Contact",
                 "url": "/contact",
                 "style": "primary",
