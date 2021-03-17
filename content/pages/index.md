@@ -49,7 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Website and email
+      - title: Website and email set up
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
