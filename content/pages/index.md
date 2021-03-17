@@ -91,7 +91,6 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: lorem-ipsum
     title: Get in touch today!
-    subtitle: lorem-ipsum
     actions: []
     type: section_cta
 seo:
