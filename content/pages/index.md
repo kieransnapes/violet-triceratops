@@ -141,6 +141,7 @@ sections:
         is_required: false
         type: form_field
         name: message
+        default_value: How can we help you?
     submit_label: lorem-ipsum
     type: section_contact
 seo:
