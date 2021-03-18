@@ -18,8 +18,8 @@ sections:
     background: gray
     title: What we offer
     subtitle: >-
-      We offer a range of services. We can help you with IT problem you might be
-      having from automation to websites.
+      We offer a range of services. We can help you with any IT problem you
+      might be having from automation to websites.
     features:
       - title: No more paperwork
         image: images/feature1.png
