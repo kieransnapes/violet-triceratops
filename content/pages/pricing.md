@@ -4,12 +4,12 @@ sections:
   - section_id: lorem-ipsum
     title: Timesheets by technikiwi
     content: >
-      ## Timesheet automation for your business
+      ### Timesheet automation for your business
 
 
       Spend less time managing your timesheets with the timesheets app. You're
       employees enter their work on their device of choice as they do the work. 
-      All you need to do is review the work and send it to Xero. 
+      All you need to do is review the work and send it to Xero.
     image_alt: lorem-ipsum
     background: gray
     actions: []
