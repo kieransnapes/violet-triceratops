@@ -7,18 +7,6 @@ sections:
     title: Timesheets by technikiwi
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Basic
-        subtitle: For small businesses
-        price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
-        actions:
-          - label: Order Now
-            url: /signup
-            style: secondary
       - title: Enterprise
         subtitle: For very large businesses
         price: $120/m
