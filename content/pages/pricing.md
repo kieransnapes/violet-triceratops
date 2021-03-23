@@ -17,7 +17,6 @@ sections:
   - section_id: pricing
     type: section_pricing
     background: gray
-    subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - price: $120/m
         details: |
