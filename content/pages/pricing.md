@@ -3,17 +3,13 @@ title: Pricing
 sections:
   - section_id: lorem-ipsum
     title: Timesheets by technikiwi
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ## Timesheet automation for your business
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      Spend less time managing your timesheets with the timesheets app. You're
+      employees enter their work on their device of choice as they do the work. 
+      All you need to do is review the work and send it to Xero. 
     image_alt: lorem-ipsum
     background: gray
     actions: []
