@@ -9,11 +9,11 @@ sections:
     pricing_plans:
       - subtitle: For very large businesses
         price: $120/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          *   Timesheet management and payment order processing
+          *   Unlimited users
+          *   Access by mobile or desktop browser
+          *   Xero integration
         actions:
           - label: Order Now
             url: /signup
