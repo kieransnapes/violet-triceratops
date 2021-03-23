@@ -7,7 +7,7 @@ sections:
     title: Timesheets by technikiwi
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - subtitle: For very large businesses
+      - subtitle: Timesheet app
         price: $120/m
         details: |
           *   Timesheet management and payment order processing
