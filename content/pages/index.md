@@ -21,6 +21,19 @@ sections:
       We offer a range of services. We can help you with any IT problem you
       might be having from automation to websites.
     features:
+      - title: Website and email
+        image: images/feature3.png
+        image_alt: App user profile preview
+        content: >
+          We can also help you out with setting up email domains and websites.
+          Tell us what you want to do and we'll figure it out for you!
+        actions:
+          - label: Learn More
+            url: /features
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
       - title: No more paperwork
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
@@ -42,19 +55,6 @@ sections:
         content: >
           We understand that your business is unique and are able to provide
           custom built software to solve the more difficult problems you face
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - title: Website and email
-        image: images/feature3.png
-        image_alt: App user profile preview
-        content: >
-          We can also help you out with setting up email domains and websites.
-          Tell us what you want to do and we'll figure it out for you!
         actions:
           - label: Learn More
             url: /features
