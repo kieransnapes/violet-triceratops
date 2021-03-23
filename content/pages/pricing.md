@@ -7,8 +7,7 @@ sections:
     title: Timesheets by technikiwi
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
-      - title: Enterprise
-        subtitle: For very large businesses
+      - subtitle: For very large businesses
         price: $120/m
         details: |-
           * Vestibulum non eros quis
