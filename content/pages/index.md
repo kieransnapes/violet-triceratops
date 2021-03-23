@@ -21,7 +21,7 @@ sections:
       We offer a range of services. We can help you with any IT problem you
       might be having from automation to websites.
     features:
-      - title: Website and email
+      - title: Timesheet automation
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
