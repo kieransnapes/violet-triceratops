@@ -14,7 +14,7 @@ sections:
           *   Access by mobile or desktop browser
           *   Xero integration
         actions:
-          - label: Order Now
+          - label: Get Started
             url: /signup
             style: secondary
         highlight: true
