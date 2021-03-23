@@ -101,15 +101,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
     type: section_cta
 seo:
   title: Stackbit Azimuth Theme
