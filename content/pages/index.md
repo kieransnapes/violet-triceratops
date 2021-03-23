@@ -29,7 +29,7 @@ sections:
           managing your workers timesheets and jobs
         actions:
           - label: Learn More
-            url: /features
+            url: /timesheets
             style: secondary
             has_icon: true
             icon: arrow-right
