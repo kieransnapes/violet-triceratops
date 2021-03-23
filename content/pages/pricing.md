@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Timesheets by technikiwi
     content: >-
       ## Lorem ipsum
 
