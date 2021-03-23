@@ -25,8 +25,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          We can also help you out with setting up email domains and websites.
-          Tell us what you want to do and we'll figure it out for you!
+          We offer an app for automating timesheets so you can spend less time
+          managing your workers timesheets and jobs
         actions:
           - label: Learn More
             url: /features
