@@ -17,6 +17,7 @@ sections:
           - label: Order Now
             url: /signup
             style: secondary
+        highlight: true
   - section_id: faq
     type: section_faq
     background: gray
