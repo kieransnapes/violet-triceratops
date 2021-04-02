@@ -34,11 +34,6 @@ sections:
     background: gray
     pricing_plans:
       - price: $120/m
-        details: |
-          *   Timesheet management and payment order processing
-          *   Unlimited users
-          *   Access by mobile or desktop browser
-          *   Xero integration
         actions:
           - label: Get Started
             url: /signup
