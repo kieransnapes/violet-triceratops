@@ -55,7 +55,8 @@ sections:
         image_alt: App users welcoming a new member
         content: >
           We understand that your business is unique and are able to provide
-          custom built software to solve the more difficult problems you face
+          custom built software to solve the more difficult problems you face.
+          To find out how we can help, get in contact via the button below.
         actions:
           - label: Learn More
             url: /features
