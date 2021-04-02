@@ -39,6 +39,7 @@ sections:
             url: /signup
             style: secondary
         highlight: true
+    title: g
 seo:
   title: Pricing
   description: This is the pricing page
