@@ -25,8 +25,9 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          We offer an app for automating timesheets so you can spend less time
-          managing your workers timesheets and jobs
+          Timesheets by technikiwi automates timesheets and payment order
+          processing so you can focus your time on adding value to your
+          business.
         actions:
           - label: Learn More
             url: /timesheets
