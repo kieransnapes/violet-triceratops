@@ -14,7 +14,7 @@ sections:
     actions: []
     type: section_hero
   - section_id: lorem-ipsum
-    title: Timesheets by technikiwi
+    title: Features
     image_alt: lorem-ipsum
     background: gray
     actions: []
