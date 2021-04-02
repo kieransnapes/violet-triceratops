@@ -3,28 +3,13 @@ title: Pricing
 sections:
   - section_id: lorem-ipsum
     title: Timesheets by technikiwi
-    content: >+
+    content: >
       ### Timesheet automation for your business&#xA;
 
 
       Spend less time managing your timesheets with the timesheets app. You're
       employees enter their work on their device of choice as they do the work. 
       All you need to do is review the work and send it to Xero.
-
-
-      *   Xero integration so you can seemlessly manage your invoices 
-
-
-      *   Fonterra payment order integration. This allows payment orders numbers
-      to automatically be added into the relevant invoice in Xero
-
-
-      *   Accessible from desktop and mobile devices. 
-
-
-      *   Digital timesheets for your employees. Simply review and send the jobs
-      to Xero when you're ready
-
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
