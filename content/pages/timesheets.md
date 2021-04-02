@@ -38,6 +38,7 @@ sections:
           - label: Get Started
             url: /signup
             style: secondary
+            new_window: true
         highlight: true
         details: |
           Quick and easy sign up, get started today!
