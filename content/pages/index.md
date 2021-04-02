@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: We save you time
+    title: Save tim
     content: >
       technikiwi are automation experts, we work with you to save time and money
       on tasks you should not have to think about
