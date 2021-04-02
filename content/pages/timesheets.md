@@ -19,6 +19,16 @@ sections:
     background: gray
     actions: []
     type: section_content
+    content: >
+      *   Fonterra payment order integration. This allows payment orders numbers
+      to automatically be added into the relevant invoice in 
+
+
+      *   Xero Accessible from desktop and mobile devices. 
+
+
+      *   Digital timesheets for your employees. Simply review and send the jobs
+      to Xero when you're ready
   - section_id: pricing
     type: section_pricing
     background: gray
