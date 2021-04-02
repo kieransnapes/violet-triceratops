@@ -36,7 +36,7 @@ sections:
       - price: $120/m
         actions:
           - label: Get Started
-            url: /signup
+            url: 'https://timesheets.technikiwi.com'
             style: secondary
             new_window: true
         highlight: true
