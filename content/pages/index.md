@@ -57,13 +57,7 @@ sections:
           We understand that your business is unique and are able to provide
           custom built software to solve the more difficult problems you face.
           To find out how we can help, get in contact via the button below.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
