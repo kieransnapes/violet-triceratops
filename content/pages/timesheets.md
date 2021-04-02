@@ -39,6 +39,8 @@ sections:
             url: /signup
             style: secondary
         highlight: true
+        details: |
+          Quick and easy sign up, get started today!
     title: g
 seo:
   title: Pricing
