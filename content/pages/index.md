@@ -8,8 +8,8 @@ sections:
     title: We make working with Fonterra easy
     content: >
       Keep track of your timesheets, materials and payment orders. We know your
-      time is valuable so we do all the boring stuff for you. Simply review your
-      timesheets and materials and we'll handle the rest.
+      time is valuable so we do all the boring stuff for you. We automate it all
+      so you just review and it's sent to Xero.
     actions:
       - label: Try it for free
         url: /features
