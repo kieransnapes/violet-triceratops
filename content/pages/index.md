@@ -64,7 +64,7 @@ sections:
           - label: lorem-ipsum
             url: '#'
             style: link
-            has_icon: false
+            has_icon: true
             icon: envelope
             icon_position: left
             new_window: false
