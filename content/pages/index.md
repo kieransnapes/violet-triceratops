@@ -28,7 +28,8 @@ sections:
         content: >
           Timesheets by technikiwi automates timesheets and payment order
           processing so you can focus your time on adding value to your
-          business.
+          business. Employees enter their timesheets and materials used on their
+          device of choice. You review them and they'll be sent to Xero. 
         actions:
           - label: Learn More
             url: /timesheets
