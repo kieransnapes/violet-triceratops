@@ -37,7 +37,6 @@ sections:
         actions: []
         type: pricing_plan
       - title: Power user
-        subtitle: lorem-ipsum
         price: $120/month
         details: |+
           ## Unlimited users
