@@ -34,7 +34,7 @@ sections:
             icon: arrow-right
             icon_position: right
           - label: Pricing
-            url: '#'
+            url: '/features#'
             style: link
             has_icon: false
             icon: arrow-left
