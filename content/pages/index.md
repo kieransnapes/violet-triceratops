@@ -60,7 +60,16 @@ sections:
           important information or setting you up with an off the shelf product
           we're here to help. Get in touch with your problem and we'll work
           together to find a solution that works for you.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
   - section_id: reviews
     type: section_reviews
     background: white
