@@ -36,7 +36,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: Power user
         subtitle: lorem-ipsum
         price: $120/month
         details: |+
