@@ -7,21 +7,18 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Our goal is to do all your paperwork. You shouldn't have to repeat the
+      same task every week, so let us do it for you.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      *   Fonterra payment order updates direct to Xero
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      *   Enter timesheets and materials from any device
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Track workorders and review timesheets in minutes
 
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      *   No more manually creating invoices in xero
     actions:
       - label: Free Trial
         url: /signup
