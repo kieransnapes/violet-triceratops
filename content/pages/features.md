@@ -29,17 +29,10 @@ sections:
   - section_id: lorem-ipsum
     background: gray
     pricing_plans:
-      - details: >
+      - details: |
           ## $89/month
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          1 - 5 users 
         highlight: false
         actions: []
         type: pricing_plan
