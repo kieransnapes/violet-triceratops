@@ -41,10 +41,9 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          We optimize your businesses workflows to save you time and money. This
-          could be in the form of automated email processing, invoicing and
-          accounting integration or simply helping you get set up with the right
-          online service. 
+          No more manually updating invoices! Payment order numbers will be
+          automatically updated on the invoice when Fonterra sends out the
+          payment order update. 
         actions:
           - label: Learn More
             url: /features
