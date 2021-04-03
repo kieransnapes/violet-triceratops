@@ -27,7 +27,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Pricing
     content: >-
       ## Lorem ipsum
 
