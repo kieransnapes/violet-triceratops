@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Spend less time doing paperwork
+    title: We make working with Fonterra easy
     content: >
       technikiwi are automation experts, we work with you to save time and money
       on tasks you should not have to think about
