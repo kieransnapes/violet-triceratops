@@ -37,7 +37,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: No more paperwork
+      - title: No stress payment orders
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
