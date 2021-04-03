@@ -27,7 +27,6 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     background: gray
     pricing_plans:
       - title: lorem-ipsum
