@@ -55,9 +55,11 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
-          We understand that your business is unique and are able to provide
-          custom built software to solve the more difficult problems you face.
-          To find out how we can help, get in contact via the button below.
+          Everyone's business is different. We can help you save time and money
+          by automating your workflows. Whether its filtering your email for
+          important information or setting you up with an off the shelf product
+          we're here to help. Get in touch with your problem and we'll work
+          together to find a solution that works for you.
         actions: []
   - section_id: reviews
     type: section_reviews
