@@ -7,10 +7,9 @@ sections:
     image_alt: App preview
     title: We make working with Fonterra easy
     content: >
-      Keep track of your timesheets, materials and payment orders with
-      technikiwi. We know your time is valuable so we do all the boring stuff
-      for you. Simply review your timesheets and materials and we'll handle the
-      rest.
+      Keep track of your timesheets, materials and payment orders. We know your
+      time is valuable so we do all the boring stuff for you. Simply review your
+      timesheets and materials and we'll handle the rest.
     actions:
       - label: Learn More
         url: /features
