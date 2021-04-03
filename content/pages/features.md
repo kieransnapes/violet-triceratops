@@ -44,7 +44,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: Starter pack
         price: $90/month
         details: |
           ### 1-5 users
