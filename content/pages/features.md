@@ -28,17 +28,16 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: Simple Pricing
-    content: |+
+    content: |
       # **$100/month**
 
-      ### No hidden costs
+      *   No hidden costs
 
-      ### We keep it simple with no contracts or commitments
+      *   We keep it simple with no contracts or commitments
 
-      ### Free setup, updates and upgrades.
+      *   Free setup, updates and upgrades.
 
-      ### Access to all features and support 
-
+      *   Access to all features and support
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
