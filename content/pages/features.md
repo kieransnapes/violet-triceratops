@@ -28,17 +28,14 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: Pricing
-    content: >-
-      ## Lorem ipsum
+    content: |
+      # $100 per month
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+      ### No hidden costs
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      ### We keep it simple with no contracts or commitments
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
