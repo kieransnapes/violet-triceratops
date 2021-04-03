@@ -44,13 +44,7 @@ sections:
           No more manually updating invoices! Payment order numbers will be
           automatically updated on the invoice when Fonterra sends out the
           payment order update. 
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Workflow automation services
         image: images/feature2.png
         image_alt: App users welcoming a new member
