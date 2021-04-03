@@ -28,7 +28,7 @@ sections:
           there was a mistake. 
         actions:
           - label: Learn More
-            url: /timesheets
+            url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
