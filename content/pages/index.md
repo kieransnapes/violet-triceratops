@@ -14,7 +14,7 @@ sections:
       - label: Try it for free
         url: /features
         style: primary
-  - section_id: features
+  - section_id: services
     type: section_features
     background: gray
     title: What we offer
