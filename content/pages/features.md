@@ -44,7 +44,6 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - {}
     type: section_pricing
     title: Pricing
 seo:
