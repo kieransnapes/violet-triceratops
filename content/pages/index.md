@@ -6,14 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: We make working with Fonterra easy
-    content: >+
+    content: >
       Keep track of your timesheets, materials and payment orders with
       technikiwi. We know your time is valuable so we do all the boring stuff
-      for you. Your employees add their work through the app and you review
-      them. Invoices are generated in Xero and updated with payment order
-      numbers as they are received. 
-
-
+      for you. Timesheets are added in the app and you review them, we handle
+      the rest.
     actions:
       - label: Learn More
         url: /features
