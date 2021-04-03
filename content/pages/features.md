@@ -26,7 +26,7 @@ sections:
       - label: View Demo
         url: '#'
         style: secondary
-  - section_id: lorem-ipsum
+  - section_id: pricing
     title: Simple Pricing
     content: |
       # **$100/month**
