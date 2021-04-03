@@ -32,7 +32,7 @@ sections:
       - details: |
           ## $89/month
 
-          1 - 5 users 
+          ### 1 - 5 users
         highlight: false
         actions: []
         type: pricing_plan
