@@ -63,7 +63,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: '#'
-            style: link
+            style: secondary
             has_icon: true
             icon: envelope
             icon_position: left
