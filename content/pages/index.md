@@ -17,7 +17,6 @@ sections:
   - section_id: services
     type: section_features
     background: gray
-    title: What we offer
     subtitle: >-
       We offer a range of services. We can help you with any IT problem you
       might be having from automation to websites.
