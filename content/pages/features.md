@@ -27,26 +27,6 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    background: gray
-    pricing_plans:
-      - title: Starter pack
-        price: $90/month
-        details: |
-          ### 1-5 users
-        highlight: false
-        actions: []
-        type: pricing_plan
-      - title: Power user
-        price: $120/month
-        details: |+
-          ## Unlimited users
-
-        highlight: false
-        actions: []
-        type: pricing_plan
-    type: section_pricing
-    title: Pricing
-  - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
