@@ -9,8 +9,8 @@ sections:
     content: >
       Keep track of your timesheets, materials and payment orders with
       technikiwi. We know your time is valuable so we do all the boring stuff
-      for you. Timesheets are added in the app and you review them, we handle
-      the rest.
+      for you. Simply review your timesheets and materials and we'll handle the
+      rest.
     actions:
       - label: Learn More
         url: /features
