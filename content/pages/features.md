@@ -45,6 +45,7 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
+    title: Pricing
 seo:
   title: Features
   description: This is the features page
