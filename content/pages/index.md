@@ -97,7 +97,7 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - section_id: lorem-ipsum
+  - section_id: contact
     title: Get in touch today!
     actions:
       - label: Contact us
