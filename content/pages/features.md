@@ -29,9 +29,7 @@ sections:
   - section_id: lorem-ipsum
     title: Pricing
     content: |
-      # $100 per month
-
-
+      ## $100 per month
 
       ### No hidden costs
 
