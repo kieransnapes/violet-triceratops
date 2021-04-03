@@ -26,7 +26,7 @@
             },
             {
                 "label": "Services",
-                "url": "/features",
+                "url": "#services",
                 "style": "link"
             },
             {
