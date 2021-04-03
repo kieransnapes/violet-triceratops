@@ -6,7 +6,7 @@ sections:
     background: gray
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
-    title: The Best Features of Your Services
+    title: Timesheets by technikiwi
     content: >
       Our goal is to do all your paperwork. You shouldn't have to repeat the
       same task every week, so let us do it for you.
