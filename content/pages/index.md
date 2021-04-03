@@ -51,7 +51,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Custom software solutions
+      - title: Workflow automation services
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
