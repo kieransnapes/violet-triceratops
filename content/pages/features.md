@@ -29,6 +29,13 @@ sections:
   - section_id: lorem-ipsum
     background: gray
     pricing_plans:
+      - title: Starter pack
+        price: $90/month
+        details: |
+          ### 1-5 users
+        highlight: false
+        actions: []
+        type: pricing_plan
       - title: Power user
         price: $120/month
         details: |+
@@ -37,13 +44,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: Starter pack
-        price: $90/month
-        details: |
-          ### 1-5 users
-        highlight: false
-        actions: []
-        type: pricing_plan
+      - {}
     type: section_pricing
     title: Pricing
 seo:
