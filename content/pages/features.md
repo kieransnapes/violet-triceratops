@@ -45,7 +45,6 @@ sections:
         actions: []
         type: pricing_plan
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         price: $90/month
         details: |
           ### 1-5 users
