@@ -27,7 +27,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    title: Pricing
+    title: Simple Pricing
     content: |+
       # **$100/month**
 
