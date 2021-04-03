@@ -28,12 +28,17 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: Pricing
-    content: |
-      ## $100 per month
+    content: |+
+      # **$100/month**
 
       ### No hidden costs
 
       ### We keep it simple with no contracts or commitments
+
+      ### Free setup, updates and upgrades.
+
+      ### Access to all features and support 
+
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
