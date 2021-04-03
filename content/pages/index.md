@@ -27,7 +27,7 @@ sections:
           device workers can keep track of their timesheets and change them if
           there was a mistake. 
         actions:
-          - label: Learn More
+          - label: Learn more
             url: /features
             style: secondary
             has_icon: true
