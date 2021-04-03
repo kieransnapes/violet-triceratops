@@ -33,6 +33,15 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
       - title: No stress payment orders
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
