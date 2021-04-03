@@ -61,7 +61,7 @@ sections:
           we're here to help. Get in touch with your problem and we'll work
           together to find a solution that works for you.
         actions:
-          - label: lorem-ipsum
+          - label: Contact us
             url: '#'
             style: secondary
             has_icon: true
