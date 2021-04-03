@@ -11,7 +11,7 @@ sections:
       time is valuable so we do all the boring stuff for you. Simply review your
       timesheets and materials and we'll handle the rest.
     actions:
-      - label: Learn More
+      - label: Sign up today
         url: /features
         style: primary
   - section_id: features
