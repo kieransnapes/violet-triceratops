@@ -26,10 +26,10 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          Timesheets by technikiwi automates timesheets and payment order
-          processing so you can focus your time on adding value to your
-          business. Employees enter their timesheets and materials used on their
-          device of choice. You review them and they'll be sent to Xero. 
+          Easy no stress timesheets. Review and submit to Xero in minutes, the
+          invoices are automatically generated for you.  Accessible from any
+          device workers can keep track of their timesheets and change them if
+          there was a mistake. 
         actions:
           - label: Learn More
             url: /timesheets
