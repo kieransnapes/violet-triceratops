@@ -17,9 +17,6 @@ sections:
   - section_id: services
     type: section_features
     background: gray
-    subtitle: >-
-      We offer a range of services. We can help you with any IT problem you
-      might be having from automation to websites.
     features:
       - title: Timesheet automation
         image: images/feature3.png
