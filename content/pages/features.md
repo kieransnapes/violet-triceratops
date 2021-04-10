@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/kind-jupiter.png
+    image: images/remarkable-goat.png
     image_alt: App preview on a phone and tablet
     title: Timesheets by technikiwi
     content: >
