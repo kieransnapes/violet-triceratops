@@ -19,9 +19,6 @@ sections:
       *   Track workorders and review timesheets in minutes
 
       *   No more manually creating invoices in xero
-
-
-      ![](/images/xero.JPG)
     actions:
       - label: Free Trial
         url: /signup
