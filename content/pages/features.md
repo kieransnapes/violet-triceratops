@@ -29,7 +29,7 @@ sections:
   - section_id: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Timesheets generated in Xero
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
