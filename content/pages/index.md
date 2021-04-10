@@ -43,7 +43,7 @@ sections:
             no_follow: false
             type: action
       - title: No stress payment orders
-        image: images/feature1.png
+        image: images/devices.png
         image_alt: App preview on a phone and tablet
         content: >
           No more manually updating invoices! Payment order numbers will be
