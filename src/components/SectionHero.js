@@ -27,11 +27,11 @@ export default class SectionHero extends React.Component {
                   </div>
                 </div>
               </div>
-                
+                {_.get(section, 'image', null) && (
                   <div className="cell block-preview">
                     <img src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
                   </div>
-                  
+                  )}
             </section>
         );
     }
