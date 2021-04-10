@@ -30,8 +30,6 @@ sections:
     background: gray
     features:
       - title: Manage your work in minutes
-        content: |
-          s
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
