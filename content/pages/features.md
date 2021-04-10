@@ -46,6 +46,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/thoughtful-mango.JPG
     type: section_features
   - section_id: pricing
     title: Simple Pricing
