@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/10.jpg
+    image: images/amazing-turmeric.png
     image_alt: App preview
     title: We make working with Fonterra easy
     content: >
