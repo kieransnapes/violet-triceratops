@@ -30,14 +30,7 @@ sections:
     title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
-    features:
-      - title: lorem-ipsum
-        content: |
-          *
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-        image: images/thoughtful-mango.JPG
+    features: []
     type: section_features
   - section_id: pricing
     title: Simple Pricing
