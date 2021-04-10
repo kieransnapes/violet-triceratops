@@ -19,7 +19,7 @@ sections:
     background: gray
     features:
       - title: Timesheet automation
-        image: images/feature3.png
+        image: images/devices2.png
         image_alt: App user profile preview
         content: >
           Easy no stress timesheets. Review and submit to Xero in minutes, the
