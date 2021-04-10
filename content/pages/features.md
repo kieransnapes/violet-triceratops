@@ -30,17 +30,8 @@ sections:
     background: gray
     features:
       - title: Manage your work in minutes
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          s
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
