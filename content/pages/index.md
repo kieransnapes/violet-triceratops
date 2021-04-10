@@ -51,7 +51,6 @@ sections:
           payment order update. 
         actions: []
       - title: Workflow automation services
-        image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >
           Everyone's business is different. We can help you save time and money
