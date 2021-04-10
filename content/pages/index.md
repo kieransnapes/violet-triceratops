@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/appheader.png
     image_alt: App preview
     title: We make working with Fonterra easy
     content: >
