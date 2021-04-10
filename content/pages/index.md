@@ -68,6 +68,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        image: images/xero_iinv.png
   - section_id: reviews
     type: section_reviews
     background: white
