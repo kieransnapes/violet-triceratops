@@ -29,11 +29,6 @@ sections:
   - section_id: lorem-ipsum
     background: gray
     features:
-      - title: Timesheets generated in Xero
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-        image: images/melodic-mahogany.JPG
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
@@ -49,6 +44,11 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+      - title: Timesheets generated in Xero
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+        image: images/melodic-mahogany.JPG
     type: section_features
   - section_id: pricing
     title: Simple Pricing
