@@ -44,6 +44,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/perpetual-dolphin.png
       - title: Timesheets generated in Xero
         image_alt: lorem-ipsum
         actions: []
