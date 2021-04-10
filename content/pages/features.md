@@ -29,7 +29,7 @@ sections:
   - section_id: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Manage your work in minutes
         content: >-
           ## Lorem ipsum
 
