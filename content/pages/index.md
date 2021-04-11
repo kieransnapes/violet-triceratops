@@ -110,7 +110,7 @@ sections:
         type: action
     type: section_cta
 seo:
-  title: Stackbit Azimuth Theme
+  title: technikiwi
   description: timesheet and payment order automation with xero and fonterra
   extra:
     - name: 'og:type'
