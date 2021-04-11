@@ -131,7 +131,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme
     - name: 'twitter:image'
-      value: images/hero.png
+      value: /images/document.png
       relativeUrl: true
 layout: landing
 ---
