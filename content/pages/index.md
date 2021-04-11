@@ -123,7 +123,7 @@ seo:
       value: timesheet and payment order automation with xero and fonterra
       keyName: property
     - name: 'og:image'
-      value: /images/amazing-turmeric.png
+      value: /images/document.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
