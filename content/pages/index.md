@@ -110,7 +110,7 @@ sections:
         type: action
     type: section_cta
 seo:
-  title: technikiwi
+  title: technikiwi timesheets
   description: timesheet and payment order automation with xero and fonterra
   extra:
     - name: 'og:type'
