@@ -117,7 +117,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: technikiwi timesheets
       keyName: property
     - name: 'og:description'
       value: timesheet and payment order automation with xero and fonterra
