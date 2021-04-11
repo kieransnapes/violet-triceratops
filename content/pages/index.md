@@ -127,7 +127,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
-      value: summary_large_image
+      value: logo
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme
     - name: 'twitter:description'
