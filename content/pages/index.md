@@ -129,7 +129,7 @@ seo:
     - name: 'twitter:card'
       value: logo
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: technikiwi timesheets
     - name: 'twitter:image'
       value: /images/document.png
       relativeUrl: true
