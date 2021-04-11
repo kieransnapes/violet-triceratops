@@ -133,5 +133,9 @@ seo:
     - name: 'twitter:image'
       value: /images/document.png
       relativeUrl: true
+    - name: 'twitter:description'
+      value: timesheet and payment order automation with xero and fonterra
+      keyName: name
+      relativeUrl: false
 layout: landing
 ---
