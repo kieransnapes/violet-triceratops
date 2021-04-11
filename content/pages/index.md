@@ -111,7 +111,7 @@ sections:
     type: section_cta
 seo:
   title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  description: timesheet and payment order automation with xero and fonterra
   extra:
     - name: 'og:type'
       value: website
