@@ -5,10 +5,9 @@ sections:
     type: section_contact
     background: gray
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Get in touch with us by sending an email below. We'll get in touch asap.
+      In the meantime how about signing up for a free trial?
     form_id: contactForm
     form_fields:
       - input_type: text
