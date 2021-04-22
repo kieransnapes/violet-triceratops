@@ -24,7 +24,7 @@ sections:
         default_value: Please select
         options:
           - Signing up
-          - Sponsorship
+          - Other services
           - Other
       - input_type: textarea
         name: message
