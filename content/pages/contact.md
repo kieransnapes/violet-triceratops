@@ -25,7 +25,7 @@ sections:
         options:
           - Signing up
           - Other services
-          - Other
+          - Help
       - input_type: textarea
         name: message
         label: Message
