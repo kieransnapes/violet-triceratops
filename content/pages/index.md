@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/appheader_shadow.png
     image_alt: App preview
-    title: We make working with Fonterra easy
+    title: We do payment order and timesheets for you
     content: >
       Keep track of your timesheets, materials and payment orders. We know your
       time is valuable so we do all the boring stuff for you. Simply review your
