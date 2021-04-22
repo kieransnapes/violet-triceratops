@@ -23,7 +23,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Sign
+          - null
           - Sponsorship
           - Other
       - input_type: textarea
